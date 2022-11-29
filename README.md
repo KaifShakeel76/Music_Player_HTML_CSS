@@ -10,3 +10,5 @@ What it includes?
 - In the middle there is content which contains different sections with their transitions.
 
 Source Code is in the index.html file and styles.css is the CSS file.
+If you like this project, please star my repo.
+Thank you!
